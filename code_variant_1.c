@@ -65,7 +65,7 @@ int main() {
 			in(s2);
 		    z = 0;
 		}
-	    if (z == 2) {
+	        if (z == 2) {
 		    printf("S1-");
 		    out(s1);
 		    printf("S2-");
